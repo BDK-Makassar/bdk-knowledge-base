@@ -3,7 +3,7 @@ import { SearchIcon } from "./Icons";
 export default function SearchBar({
   action = "/",
   defaultValue = "",
-  placeholder = "Cari panduan, SOP, peraturan, publikasi, media...",
+  placeholder = "Cari panduan, SOP, peraturan, format laporan, media...",
 }: {
   action?: string;
   defaultValue?: string;

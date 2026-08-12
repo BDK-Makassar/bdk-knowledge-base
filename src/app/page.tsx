@@ -58,7 +58,7 @@ export default async function HomePage({
           <div className="max-w-6xl mx-auto px-4 py-14 text-center">
             <h1 className="text-3xl sm:text-4xl font-bold">Knowledge Base BDK Makassar</h1>
             <p className="mt-3 text-brand-100 max-w-2xl mx-auto">
-              Pusat referensi panduan, SOP, surat tugas, peraturan, publikasi, dan media
+              Pusat referensi panduan, SOP, surat tugas, peraturan, format laporan, dan media
               Balai Diklat Keagamaan Makassar.
             </p>
             <div className="mt-6 max-w-xl mx-auto">

@@ -2,7 +2,7 @@
 
 Aplikasi Knowledge Base internal untuk Balai Diklat Keagamaan (BDK) Makassar, terinspirasi dari
 struktur Helpdesk BKN. Berisi 6 kategori dokumen: **Panduan, SOP, Surat Tugas, Peraturan,
-Publikasi, dan Media (Gambar & Video)**.
+Format Laporan, dan Media (Gambar & Video)**.
 
 Admin **tidak perlu mengunggah file** — cukup tempel link (Google Drive, website, atau YouTube),
 dan aplikasi akan otomatis mendeteksi jenis sumbernya serta menampilkan preview (embed) untuk

@@ -43,8 +43,8 @@ export const CATEGORIES: {
   },
   {
     key: "PUBLIKASI",
-    label: "Publikasi",
-    slug: "publikasi",
+    label: "Format Laporan",
+    slug: "format-laporan",
     description: "Buletin, artikel, dan publikasi resmi",
     icon: "newspaper",
   },

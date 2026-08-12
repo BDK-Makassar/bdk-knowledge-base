@@ -6,7 +6,7 @@ const siteName = process.env.NEXT_PUBLIC_SITE_NAME || "Knowledge Base BDK Makass
 export const metadata: Metadata = {
   title: siteName,
   description:
-    "Pusat pengetahuan Balai Diklat Keagamaan Makassar: panduan, SOP, surat tugas, peraturan, publikasi, dan media.",
+    "Pusat pengetahuan Balai Diklat Keagamaan Makassar: panduan, SOP, surat tugas, peraturan, format laporan, dan media.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
